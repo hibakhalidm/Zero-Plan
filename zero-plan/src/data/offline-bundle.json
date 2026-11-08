@@ -1,0 +1,217 @@
+{
+  "version": "1.0.4",
+  "reviewedAt": "2026-11-07",
+  "dataNotice": "Chapter figures and published questions are demonstration seed data supplied for this MVP, not verified programme outcomes. Educational copy requires local clinical and safeguarding review before a youth-facing launch. Referral pathways are not a verified list of available appointments.",
+  "modules": [
+    {
+      "id": "understanding-your-cycle",
+      "title": "Understanding Your Cycle & Managing School Days",
+      "category": "srhr",
+      "minutes": 4,
+      "summary": "Understand what a period is and make a small, practical school-day plan.",
+      "paragraphs": [
+        "A period is bleeding that happens as the lining of the womb is shed during the menstrual cycle. Cycles do not all follow the same calendar, especially when periods first begin. A period is a body process, not a sign that someone is dirty or ready for marriage. If you are worried about a change, a nurse can listen and help you decide whether an examination is needed.",
+        "Before a long school day or a journey between home and campus, choose one person you could approach if you need a pad, a change of clothes or a quiet place to rest. You could say, ‘I need to visit the nurse,’ without explaining your period to classmates. Where supplies are limited, ask the Lead Sister how the supply bank works; needing support is not something to be ashamed of.",
+        "A private note of the first day of bleeding and symptoms can help you describe a pattern to a nurse. This app does not collect cycle dates. If you share a phone, think carefully before storing any personal health notes on it. You are welcome to learn here without recording anything at all."
+      ],
+      "checklist": ["Pack a clean menstrual product and spare underwear if available.", "Locate a toilet with privacy, water and a safe disposal option.", "Choose a trusted school contact before you need help.", "Ask a nurse about pain or bleeding that disrupts your day; you do not have to simply endure it."],
+      "myths": [{"myth": "Every period must arrive on exactly the same date.", "fact": "Cycles vary. A persistent change or a worry deserves a conversation with a health professional."}],
+      "sources": [{"label": "NHS: Periods", "url": "https://www.nhs.uk/conditions/periods/"}]
+    },
+    {
+      "id": "menstrual-hygiene-myths",
+      "title": "Menstrual Hygiene Myths vs. Medical Facts",
+      "category": "srhr",
+      "minutes": 4,
+      "summary": "Separate shame from practical care, and plan for dignity when supplies are scarce.",
+      "paragraphs": [
+        "Managing a period with dignity requires clean materials, privacy, water and somewhere to dispose of or wash products. A shortage of these things is a resource problem, not a personal failure. A school supply bank should offer support respectfully and without asking a girl to describe her body in public.",
+        "Use a clean menstrual product and follow its care instructions. Wash your hands before and after changing it. Reusable materials need appropriate washing and complete drying before reuse; a damp hidden cloth is not a good substitute for a clean, dry product. Ask the school nurse which locally available options are suitable for you and how to care for them when water is limited.",
+        "If a classmate repeats a frightening claim, you can respond gently: ‘That sounds worrying. Shall we ask the nurse together?’ You do not need to win an argument or embarrass an elder to seek reliable information. Respect for people can sit alongside asking questions about a health claim."
+      ],
+      "checklist": ["Keep clean and used materials separate.", "Follow product instructions and change products when needed.", "Ask for a private, accessible washing or changing space.", "Raise supply shortages with the Lead Sister without naming who received kits."],
+      "myths": [{"myth": "A girl who needs free pads has done something wrong.", "fact": "Menstrual supplies are a practical health need. Everyone deserves access with dignity."}, {"myth": "Periods make someone unclean as a person.", "fact": "Menstruation is normal biology. It does not reduce anyone's dignity or right to participate."}],
+      "sources": [{"label": "UNICEF: Menstrual hygiene", "url": "https://www.unicef.org/wash/menstrual-hygiene"}, {"label": "UNICEF: Menstrual hygiene products", "url": "https://www.unicef.org/supply/menstrual-hygiene-products"}]
+    },
+    {
+      "id": "when-to-see-a-nurse",
+      "title": "Recognizing When to See a School Nurse",
+      "category": "srhr",
+      "minutes": 3,
+      "summary": "Know when peer support should become professional care.",
+      "paragraphs": [
+        "A nurse can help when bleeding or pain interferes with lessons, sleep or ordinary activities. Bleeding through clothes, needing to change a pad every one to two hours, periods lasting longer than seven days, or ongoing tiredness and breathlessness are reasons to seek assessment. These signs do not tell you the cause by themselves; this app cannot diagnose it.",
+        "If bleeding is heavy and you feel faint, collapse, have difficulty breathing or severe pain, seek urgent medical care now with a trusted adult. Do not wait for the Tuesday question box. If it feels unsafe to speak to one adult, approach another safe adult or a nearby health facility.",
+        "You can begin a conversation with: ‘Something about my period is making school difficult. Could we speak privately?’ Ask what information will be recorded, who may see it and what confidentiality limits apply. A peer advocate may accompany you if you want, but should not speak over you or choose treatment for you."
+      ],
+      "checklist": ["Describe what is happening and when it started in your own words.", "Tell the nurse if you feel faint or unusually short of breath.", "Ask questions before agreeing to an examination or treatment.", "Do not take someone else's medicines or rely on an anonymous online diagnosis."],
+      "myths": [{"myth": "Missing lessons because of period pain is just something to accept.", "fact": "Pain that disrupts daily life deserves a professional assessment."}],
+      "sources": [{"label": "NHS: Heavy periods", "url": "https://www.nhs.uk/conditions/heavy-periods/"}]
+    },
+    {
+      "id": "grounding-for-stress",
+      "title": "Grounding Techniques for Stress & Anxiety",
+      "category": "mental_health",
+      "minutes": 3,
+      "summary": "A brief practice to reconnect with the present during a difficult moment.",
+      "paragraphs": [
+        "Stress can make it difficult to focus. Try gently pressing your feet against the ground and noticing the support beneath you. Look around and name a few things you can see, hear and feel. Let your breath move comfortably rather than forcing deep breaths. If the exercise feels uncomfortable, stop and try a different way to settle, such as holding a familiar object.",
+        "Grounding is a small coping practice, not a test you can fail and not a replacement for care. You can practise for a minute before class or while waiting for a bus. If distress keeps affecting sleep, eating, school or relationships, a trusted adult or health professional can help you find more support.",
+        "At a Sisterhood Circle, you may watch rather than participate. No one should require you to close your eyes, be touched or explain a personal memory. Choose what feels comfortable. If you are in immediate danger or feel you might hurt yourself, move toward a trusted person and urgent professional help instead of relying on this exercise."
+      ],
+      "checklist": ["Notice where you are and whether the place feels safe.", "Feel your feet or hands resting against a surface.", "Name a few present sights and sounds.", "Choose one small next action, such as asking someone safe to sit with you."],
+      "myths": [{"myth": "If a calming exercise does not help, I am doing it wrong.", "fact": "People respond differently. You can stop, try something else or ask for support."}],
+      "sources": [{"label": "WHO: Doing What Matters in Times of Stress", "url": "https://www.who.int/publications/i/item/9789240003927"}]
+    },
+    {
+      "id": "stigma-and-isolation",
+      "title": "Overcoming Cultural Stigma & Isolation",
+      "category": "mental_health",
+      "minutes": 4,
+      "summary": "Find support at your own pace without having to share your whole story.",
+      "paragraphs": [
+        "Worrying about gossip can make a school corridor feel lonely even when it is crowded. You are allowed to ask for company without disclosing a private experience. A first step might be sitting beside a trusted friend, asking a teacher for a private conversation or attending a circle simply to listen. Your level of participation belongs to you.",
+        "Families and communities in Ethiopia hold many different beliefs and experiences; no single story describes them all. If one person dismisses your concern, that response does not make the concern unimportant. Think of a second safe person you could approach. Where possible, choose someone who listens without ridicule and respects your choices while taking safety seriously.",
+        "For a peer advocate, inclusion means noticing who cannot easily enter the room, hear the discussion, afford transport or stay after class. Ask the group about practical barriers without singling anyone out. Offer quiet participation, a readable copy of the learning material and the option to leave. These are suggested circle practices, not evidence that every chapter already provides them."
+      ],
+      "checklist": ["Choose one manageable connection rather than explaining everything at once.", "Prepare a short opening: ‘Could you listen for a few minutes?’", "Ask the facilitator what privacy rules and exceptions apply.", "If a response feels unsafe, approach another trusted adult or a health professional."],
+      "myths": [{"myth": "I have to tell the group my story to belong.", "fact": "Listening, asking a general question or choosing not to speak are all valid ways to participate."}],
+      "sources": [{"label": "WHO: Mental health and psychosocial support", "url": "https://www.emro.who.int/mhps/dealing_with_stress.html"}]
+    },
+    {
+      "id": "peer-support-boundaries",
+      "title": "How Peer Support Works (and Where It Stops)",
+      "category": "mental_health",
+      "minutes": 4,
+      "summary": "Listen with care, respect choices and know when an adult must take over.",
+      "paragraphs": [
+        "Peer support can mean listening, helping someone find a resource or walking with them to a nurse. It does not mean diagnosing a condition, investigating abuse, offering medication or promising to solve a crisis alone. A caring response can be simple: ‘Thank you for telling me. What would help you feel safer right now?’ Avoid pressing for details that are not needed to connect someone with help.",
+        "Explain privacy limits before inviting a sensitive disclosure. Keep ordinary conversations private, but do not promise secrecy when someone may be in danger. Tell the person what you need to share, with whom and why, as far as it is safe to do so. Only the minimum information needed for protection should go to the responsible adult, never to a group chat.",
+        "You also deserve boundaries as a peer advocate. You are not an emergency service and should not be available at every hour. Agree a handover route with the Adult Champion before running a circle. If supporting someone leaves you distressed, seek supervision without sharing identifying details with friends."
+      ],
+      "checklist": ["Listen without blaming, testing or demanding proof.", "Ask permission before offering ordinary support.", "Escalate immediate danger to the designated safe adult or urgent health service.", "Do not keep photographs, voice notes or names on a personal device.", "Arrange a safe handover and take time to recover yourself."],
+      "myths": [{"myth": "A good friend must keep every secret.", "fact": "Safety can require help from a responsible adult. Explain this with care rather than making promises you cannot keep."}],
+      "sources": [{"label": "UNICEF: Psychological first aid participant materials", "url": "https://www.unicef.org/media/102781/file"}]
+    },
+    {
+      "id": "social-media-privacy",
+      "title": "Protecting Privacy on Telegram, TikTok & Instagram",
+      "category": "digital_safety",
+      "minutes": 5,
+      "summary": "Review who can find you, contact you and see what you share.",
+      "paragraphs": [
+        "On Telegram, review Settings → Privacy and Security, including who can see your phone number. People who already know and saved it may still have it. Turn on two-step verification and review connected devices. Do not give anyone a login code, even if a message claims to come from a school club or platform helper.",
+        "On TikTok, open the privacy settings and review your account audience, comments, downloads and messages. Some settings depend on age. A private account does not hide your nickname, username or profile photo. On Instagram, review the account audience and controls for messages, tags, mentions, blocking and restricting. Labels may change, so use the platform's own help centre if a menu looks different.",
+        "Before posting, look for a school badge, timetable, bus stop, house number or another person's face in the background. Ask before sharing a classmate's image. A trusted follower can still copy a post, so audience settings cannot guarantee secrecy. On a shared device, use a screen lock where safe and review notification previews; Quick Exit in this app does not remove browser history or hide activity from a device administrator."
+      ],
+      "checklist": ["Use a different strong password for each important account.", "Review unfamiliar signed-in devices and revoke access you do not recognise.", "Limit unwanted contact using each platform's privacy tools.", "Pause before posting school locations, routines or other people's information.", "Never send a verification code to someone asking for it in a chat."],
+      "myths": [{"myth": "A private social account means nobody can copy my posts.", "fact": "Approved viewers can still capture or reshare content. Privacy settings reduce exposure but do not guarantee control."}],
+      "sources": [{"label": "Telegram: Privacy and account security FAQ", "url": "https://telegram.org/faq"}, {"label": "TikTok: Teen privacy and safety settings", "url": "https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18"}, {"label": "UNICEF: Cyberbullying and platform controls", "url": "https://www.unicef.org/stories/how-to-stop-cyberbullying"}]
+    },
+    {
+      "id": "health-misinformation",
+      "title": "Identifying Online Health Misinformation",
+      "category": "digital_safety",
+      "minutes": 4,
+      "summary": "Slow down before forwarding a health claim or trying a supposed cure.",
+      "paragraphs": [
+        "A confident video, a white coat or a large number of likes does not establish that health advice is correct. Pause when a post promises one cure for every problem, demands secrecy or asks you to stop prescribed treatment. Look for the original source and compare the claim with a national health authority or a recognised medical organisation.",
+        "Check the date and the context. An old public-health notice may not describe today's service, and advice written for one person's diagnosis may not apply to you. If you cannot find the original evidence, keep the claim as a question rather than treating it as an instruction. A qualified nurse can help you interpret it without needing your social account password.",
+        "In a circle, discuss the claim without naming the person who shared it. You might say, ‘This post is worrying people. Can we check it before forwarding it?’ You can report misleading content through the platform. Do not spend time arguing with strangers if doing so exposes you to harassment."
+      ],
+      "checklist": ["Find who first published the claim and when.", "Look for evidence from a recognised health authority.", "Notice whether the post sells a product or creates pressure.", "Ask a clinician before acting on advice about symptoms or treatment.", "Do not forward a claim merely because someone you trust forwarded it."],
+      "myths": [{"myth": "A viral health tip has already been checked by the platform.", "fact": "Popularity is not verification. Check the source and seek professional advice for personal health decisions."}],
+      "sources": [{"label": "WHO: Reporting misinformation online", "url": "https://www.who.int/campaigns/connecting-the-world-to-combat-coronavirus/how-to-report-misinformation-online"}, {"label": "WHO: Disinformation and public health", "url": "https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health"}]
+    },
+    {
+      "id": "responding-to-online-abuse",
+      "title": "Step-by-Step Response to Non-Consensual Image Sharing or Cyberbullying",
+      "category": "digital_safety",
+      "minutes": 5,
+      "summary": "A calm response plan that prioritises your safety and limits further sharing.",
+      "paragraphs": [
+        "Someone sharing an intimate image without permission or threatening you online is responsible for their actions. You do not deserve the abuse. If a threat could reach you offline, move toward a safe adult or place first. You can ask a trusted adult to sit beside you while you decide what to do; you do not need to confront the person alone.",
+        "If it is safe, record the account name, link, date and non-explicit details needed for a report. Do not forward an intimate image to a friend or peer advocate as proof. Use the platform's reporting controls, then block or restrict unwanted contact when safe. A trusted adult can help you decide whether a local protection or police referral is appropriate.",
+        "If an explicit image shows you when you were under 18, NCMEC's Take It Down can create a digital fingerprint of a file already on your device for participating platforms. Do not download or ask anyone to send the image to use the service. It does not remove every copy from the internet. The service directs people whose images were made at age 18 or older to StopNCII.org. A trained adult can help you understand the options without taking possession of the image."
+      ],
+      "checklist": ["Prioritise immediate physical safety.", "Tell a safe adult; you do not have to manage threats alone.", "Record links and account details if safe, without spreading explicit material.", "Report the account or post using platform tools.", "Avoid sending money, more images or login codes in response to threats.", "Ask for support with school attendance and emotional well-being as well as takedown requests."],
+      "myths": [{"myth": "I need to send the image to the whole group so they believe me.", "fact": "You can ask for help without circulating the image. Sharing it further can increase harm."}],
+      "sources": [{"label": "NCMEC: Take It Down", "url": "https://takeitdown.ncmec.org/"}, {"label": "UNICEF: Cyberbullying support", "url": "https://www.unicef.org/stories/how-to-stop-cyberbullying"}]
+    },
+    {
+      "id": "running-a-circle",
+      "title": "Running a Confidential Tuesday Sisterhood Circle",
+      "category": "advocacy",
+      "minutes": 5,
+      "summary": "A practical facilitation plan built around choice, dignity and adult backup.",
+      "paragraphs": [
+        "Before Tuesday, agree a room and a responsible Adult Champion who can be reached during the session. Check that participants can enter and leave without being publicly labelled as seeking a particular health service. Make seating and written materials accessible. These are proposed operating practices for chapter approval, not a claim that a venue or adult is already available.",
+        "Begin with the purpose and boundaries: this is a learning space, no one must tell a personal story, no photos or recordings are allowed, and serious safety concerns need adult help. Ask members not to repeat another person's story outside the room, while being honest that a group cannot guarantee absolute confidentiality. Use a general check-in that allows someone to pass.",
+        "Choose one guide, read a short section together and discuss a fictional situation rather than requesting personal disclosures. Leave time for questions and the referral pathway. Finish by naming how to seek help privately and asking for non-identifying feedback about the session. Record only aggregate attendance if the programme needs it; do not maintain a list of health concerns beside names."
+      ],
+      "checklist": ["Confirm a safe room and available adult before inviting participants.", "Explain the right to pass and the limits of confidentiality.", "Use one learning topic and a fictional example.", "Stop discussion if it becomes blaming or identifying.", "Close with support options and an adult handover for any concern."],
+      "myths": [{"myth": "A successful circle needs everyone to speak about a personal experience.", "fact": "A successful circle allows informed choices, including silence, and gives clear routes to support."}],
+      "sources": [{"label": "UNICEF: Psychological first aid guidance", "url": "https://www.unicef.org/myanmar/ParentingHub/how-provide-psychological-first-aid"}]
+    },
+    {
+      "id": "anonymous-question-box",
+      "title": "Managing the Anonymous Question Box",
+      "category": "advocacy",
+      "minutes": 4,
+      "summary": "Keep questions useful without turning the box into a case record or emergency service.",
+      "paragraphs": [
+        "Explain the box before inviting questions: answers are reviewed for the Tuesday circle, and the box is not monitored continuously. Ask writers to leave out names, phone numbers, exact addresses, class lists and details that identify another person. An anonymous question can still identify someone through its story, so moderators must review wording before publication.",
+        "Read urgent flags first, but remember that keyword detection can miss a crisis and can flag harmless wording. A trained adult must review the content rather than relying on the flag alone. Because the box is anonymous, staff may be unable to contact the writer or arrange a welfare check. Do not promise that submitting a question will bring immediate help.",
+        "Before publishing, remove identifying context and have the appropriate qualified person review medical content. Use a warm answer that states what peers can offer and where professional support begins. Do not speculate about the writer's identity, discuss pending questions in a group chat or export raw questions in a donor report."
+      ],
+      "checklist": ["Display the Tuesday review schedule and urgent-help route.", "Screen all questions for identifying details before publication.", "Use qualified review for medical answers.", "Publish a general learning answer rather than a diagnosis.", "Keep pending questions restricted to authorised moderators.", "Share only aggregate reporting figures with partners."],
+      "myths": [{"myth": "No name means a question cannot identify anyone.", "fact": "A unique event, location or description can reveal an identity. Review the whole text carefully."}],
+      "sources": [{"label": "UNICEF: Psychological first aid participant materials", "url": "https://www.unicef.org/media/102781/file"}]
+    },
+    {
+      "id": "adult-referral-protocol",
+      "title": "The Mandatory Adult Referral Protocol",
+      "category": "advocacy",
+      "minutes": 5,
+      "summary": "A proposed chapter safeguarding procedure requiring local approval before launch.",
+      "paragraphs": [
+        "Within this proposed chapter protocol, a peer advocate must involve a designated safe Adult Champion when someone describes immediate danger, abuse, coercion, serious injury or a risk of self-harm. This is a programme safeguarding rule, not a summary of Ethiopian law. The local safeguarding lead must approve the procedure, reporting obligations and emergency contacts before it is used with participants.",
+        "Listen calmly, thank the person for telling you and check whether help is needed now. Do not investigate, confront the alleged perpetrator or ask someone to repeat distressing details to the group. Explain the next step in simple language and involve the person in decisions as far as possible. If the designated adult is implicated or unsafe, choose an alternative safeguarding contact or health facility.",
+        "For urgent medical needs, accompany the person to professional care when safe rather than waiting for a meeting. For other concerns, make a clear handover to the responsible adult and check that it has been received. Store no personal case notes in this app. The adult service, not the peer group, is responsible for any protected records and for explaining the limits of confidentiality."
+      ],
+      "checklist": ["Assess immediate safety without conducting an investigation.", "Contact a designated safe adult; use an alternative if that adult is involved.", "Share only information necessary for protection.", "Explain what will happen next and avoid promises of absolute secrecy.", "Arrange urgent professional care when needed.", "Confirm handover and seek supervision for the peer advocate."],
+      "myths": [{"myth": "A peer advocate should investigate before asking an adult for help.", "fact": "Peers should support and refer. Investigation and clinical assessment require trained professionals."}],
+      "sources": [{"label": "UNFPA Ethiopia: Integrated GBV response services", "url": "https://ethiopia.unfpa.org/en/news/gbv-survivors-receiving-integrated-response-services-part-unfpa-supported-programme"}]
+    }
+  ],
+  "referrals": [
+    {"id": "school-nurse", "name": "Campus / School Nurse & Adult Champion Desk", "category": "school", "description": "Start with a designated safe adult for supplies, school-day support or help finding a qualified nurse. A school desk and contact have not been confirmed for the demonstration chapters.", "phone": null, "hours": "Ask your school office for the current nurse or safeguarding lead's availability.", "confidentiality": "Ask to speak privately and ask what must be shared for safety. Absolute secrecy cannot be promised.", "verification": "Local verification required: named adult, location, hours and phone number.", "steps": ["Ask the school office who is responsible for student health and safeguarding.", "Request a private conversation; you can bring a trusted person.", "If the named adult is unsafe or unavailable, approach another safe adult or a health facility."], "sourceUrl": null},
+    {"id": "youth-clinic", "name": "Adama / Addis Ababa Youth-Friendly Reproductive Health Clinic", "category": "clinical", "description": "A pathway to professional care for pain, menstrual concerns and reproductive-health questions. This is a service category, not a confirmed clinic address or appointment.", "phone": null, "hours": "Facility-specific; confirm before travelling. Urgent symptoms should go to the nearest available emergency service.", "confidentiality": "Ask the clinician about privacy, consent, costs and confidentiality limits before sharing details.", "verification": "Local verification required: facility name, address, services, eligibility and contact.", "steps": ["Ask the school nurse or local health centre for a youth-friendly service.", "Confirm opening hours, cost and whether an appointment is needed.", "Tell staff promptly if you have heavy bleeding with faintness, severe pain or another urgent concern."], "sourceUrl": "https://ethiopia.unfpa.org/"},
+    {"id": "one-stop-gbv", "name": "One-Stop GBV & Psychosocial Crisis Center", "category": "crisis", "description": "UNFPA documents Ethiopian One-Stop Centres offering integrated care for survivors. A specific Adama or Addis Ababa centre has not been verified in this directory. Seek urgent medical care after an assault; do not wait for a circle.", "phone": null, "hours": "Local centre hours unverified; use the nearest hospital emergency service for immediate medical needs.", "confidentiality": "Ask what information is shared between health, protection and legal services. Your safety and choices should guide support.", "verification": "Service model documented by UNFPA; local access details require verification.", "steps": ["Move to a safer place with a trusted person if possible.", "Ask the nearest hospital or safe Adult Champion for the local One-Stop Centre.", "Request medical and psychosocial support; you do not need to describe the event in the peer group."], "sourceUrl": "https://ethiopia.unfpa.org/en/news/gbv-survivors-receiving-integrated-response-services-part-unfpa-supported-programme"},
+    {"id": "awsad", "name": "AWSAD / Safe Shelter & Counseling Referral", "category": "crisis", "description": "A potential shelter and psychosocial referral pathway. No working AWSAD hotline, admission process or available shelter place was independently confirmed for this release; do not rely on this card for immediate response.", "phone": null, "hours": "Not verified. Ask a safe safeguarding professional to confirm current access.", "confidentiality": "Do not share a shelter location publicly. Ask the referral professional how information will be protected.", "verification": "Local verification required; no unverified phone number is displayed.", "steps": ["For immediate danger, seek a safe adult or nearest available protection or medical service.", "Ask a qualified local safeguarding worker to confirm an appropriate shelter referral.", "Confirm safe transport and admission arrangements before travelling."], "sourceUrl": null},
+    {"id": "public-health", "name": "National Toll-Free Public Health Information: 8335 / 952", "category": "clinical", "description": "EPHI publicly lists 8335 and 952 in public-health and COVID-19 information. These listings do not establish that either number is a dedicated youth, suicide, GBV or emergency response service. Ask what assistance is currently available.", "phone": "8335", "alternatePhone": "952", "hours": "Current availability not confirmed; historical public-health listings should be checked locally.", "confidentiality": "Ask the operator what information is recorded. A telephone service has its own privacy practices.", "verification": "Numbers documented on EPHI's public-health website; current scope and hours are unverified.", "steps": ["Use this route for public-health information and ask whether the operator can direct you to a local service.", "If the number does not connect, contact a nearby health facility.", "Do not wait on this line instead of seeking urgent in-person care when in danger."], "sourceUrl": "https://covid19.ephi.gov.et/prevention/"},
+    {"id": "digital-support", "name": "Digital Safety & Cyber Harassment Support Desk", "category": "digital", "description": "A guided pathway through platform reporting and a trusted Adult Champion. No staffed local Zero Plan digital desk has been confirmed. Take It Down offers an online option for certain intimate images made before age 18.", "phone": null, "hours": "Online self-service tools require connectivity; local adult support hours must be confirmed.", "confidentiality": "Do not send intimate images to a peer group. Keep only necessary non-explicit reporting details when safe.", "verification": "NCMEC tool verified; local desk and response time not verified.", "steps": ["Prioritise physical safety and ask a safe adult to support you.", "Report abuse through the platform and record links or usernames if safe.", "For Take It Down, use only a file already on your device; do not download or request an explicit image."], "sourceUrl": "https://takeitdown.ncmec.org/"}
+  ],
+  "chapters": [
+    {"slug": "astu", "name": "ASTU Zero Plan Chapter", "institution_type": "University", "city": "Adama", "trained_advocates_count": 25, "active_members_count": 55, "pad_kits_available": 64, "pad_kits_target": 150, "next_circle_day": "Tuesday, 3:30 PM — demo schedule; confirm locally", "is_demo": true},
+    {"slug": "wise-school", "name": "Wise School Zero Plan Chapter", "institution_type": "High School", "city": "Addis Ababa", "trained_advocates_count": 20, "active_members_count": 45, "pad_kits_available": 38, "pad_kits_target": 150, "next_circle_day": "Tuesday, 3:30 PM — demo schedule; confirm locally", "is_demo": true},
+    {"slug": "partner-secondary", "name": "Partner Secondary School Chapter", "institution_type": "High School", "city": "Adama / Addis Ababa", "trained_advocates_count": 15, "active_members_count": 35, "pad_kits_available": 22, "pad_kits_target": 150, "next_circle_day": "Tuesday, 3:30 PM — demo schedule; confirm locally", "is_demo": true}
+  ],
+  "questions": [
+    {"id": "10000000-0000-4000-8000-000000000001", "category": "period_dignity", "chapter_slug": "general", "question_text": "I ran out of pads at school and felt embarrassed to ask. How can I get help quietly?", "answer_text": "You deserve supplies without embarrassment. Ask a Lead Sister or safe school adult for a private conversation and say you need a menstrual product. You do not need to explain your cycle to classmates. Confirm where your school keeps emergency supplies; the demonstration supply counts in this app are not a guarantee of stock.", "answered_by": "Editorial example — pending local clinical and safeguarding review", "status": "published", "is_flagged_urgent": false, "upvotes": 0, "created_at": "2026-11-07T00:00:00Z"},
+    {"id": "10000000-0000-4000-8000-000000000002", "category": "srhr", "chapter_slug": "general", "question_text": "My period pain makes it hard to stay in lessons. Am I making too much of it?", "answer_text": "Your discomfort matters. Ask the school nurse or another qualified clinician for a private assessment when pain affects your normal activities. A peer can accompany you, but cannot diagnose the cause or prescribe treatment. Seek urgent care if symptoms are severe or you feel faint or very unwell.", "answered_by": "Editorial example — pending local clinical and safeguarding review", "status": "published", "is_flagged_urgent": false, "upvotes": 0, "created_at": "2026-11-07T00:00:00Z"},
+    {"id": "10000000-0000-4000-8000-000000000003", "category": "mental_health", "chapter_slug": "general", "question_text": "Can I come to a Sisterhood Circle if I do not want to talk?", "answer_text": "Yes. The proposed circle rules include the right to listen, pass on an activity or leave. You do not owe anyone a personal story. Ask the facilitator about privacy and adult support before joining, and tell a safe adult if someone pressures you to disclose something.", "answered_by": "Editorial example — pending local clinical and safeguarding review", "status": "published", "is_flagged_urgent": false, "upvotes": 0, "created_at": "2026-11-07T00:00:00Z"},
+    {"id": "10000000-0000-4000-8000-000000000004", "category": "digital_safety", "chapter_slug": "general", "question_text": "A stranger says they are a club organiser and wants my Telegram login code. Should I send it?", "answer_text": "Do not share the code. A login code can give someone access to your account. Check the request with your organiser through a contact you already trust. Review your Telegram security settings and signed-in devices, and ask a trusted adult for help if you suspect someone has accessed the account.", "answered_by": "Editorial example — pending local clinical and safeguarding review", "status": "published", "is_flagged_urgent": false, "upvotes": 0, "created_at": "2026-11-07T00:00:00Z"},
+    {"id": "10000000-0000-4000-8000-000000000005", "category": "mental_health", "chapter_slug": "general", "question_text": "My friend is having a difficult week. How can I help without pretending to be a counsellor?", "answer_text": "Ask whether she would like company or someone to listen. You can help her find a safe adult or professional and offer to accompany her. Do not diagnose, demand details or promise complete secrecy. If you are concerned about immediate safety, involve a responsible safe adult promptly rather than handling it alone.", "answered_by": "Editorial example — pending local clinical and safeguarding review", "status": "published", "is_flagged_urgent": false, "upvotes": 0, "created_at": "2026-11-07T00:00:00Z"},
+    {"id": "10000000-0000-4000-8000-000000000006", "category": "digital_safety", "chapter_slug": "general", "question_text": "I share a phone with family. Does Quick Exit erase everything?", "answer_text": "Quick Exit changes the visible screen to a study calculator. It does not erase browser history, downloads, network records or what another person has already seen. Local reading progress and queued questions may remain on the device unless you use the app's clear-data control. Avoid typing names or identifying details, and choose the device and time that feel safest for you.", "answered_by": "Editorial example — pending local clinical and safeguarding review", "status": "published", "is_flagged_urgent": false, "upvotes": 0, "created_at": "2026-11-07T00:00:00Z"}
+  ],
+  "sources": [
+    {"label": "UNICEF menstrual health and hygiene", "url": "https://www.unicef.org/wash/menstrual-hygiene"},
+    {"label": "NHS periods and heavy bleeding", "url": "https://www.nhs.uk/conditions/heavy-periods/"},
+    {"label": "WHO stress-management resources", "url": "https://www.who.int/publications/i/item/9789240003927"},
+    {"label": "UNICEF online safety", "url": "https://www.unicef.org/stories/how-to-stop-cyberbullying"},
+    {"label": "UNFPA Ethiopia integrated GBV response", "url": "https://ethiopia.unfpa.org/en/news/gbv-survivors-receiving-integrated-response-services-part-unfpa-supported-programme"},
+    {"label": "EPHI public-health telephone listings", "url": "https://covid19.ephi.gov.et/prevention/"},
+    {"label": "NCMEC Take It Down", "url": "https://takeitdown.ncmec.org/"}
+  ]
+}

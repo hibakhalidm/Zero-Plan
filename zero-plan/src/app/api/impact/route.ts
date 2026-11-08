@@ -1,0 +1,2 @@
+import {database,unavailable} from '@/lib/server';
+export async function GET(){const db=database();if(!db)return unavailable();const [chapters,installs]=await Promise.all([db.from('club_chapters').select('*').order('name'),db.from('device_installs').select('id',{count:'exact',head:true})]);if(chapters.error||installs.error)return unavailable();return Response.json({chapters:chapters.data,installs:installs.count||0,mode:'live',updated_at:new Date().toISOString()});}

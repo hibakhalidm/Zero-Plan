@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.env*
+.env
+.env.local
+.env*.local
+.vercel/
+!.env.example
+out/
+*.tsbuildinfo
+public/offline-shell.html
+public/offline-assets.json
+public/offline-bundle.json
+public/offline-pages/
